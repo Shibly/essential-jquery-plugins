@@ -24,7 +24,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Form Validation
 [Parsley](https://github.com/guillaumepotier/Parsley.js): Javascript form validation, without actually writing a single line of javascript.
- 
+
+
+###Maps - Google Map
+[GMaps](https://github.com/hpneo/gmaps): GMaps.js allows you to use the potential of Google Maps in a simple way. No more extensive documentation or large amount of code. 
 
 ###Layout
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
